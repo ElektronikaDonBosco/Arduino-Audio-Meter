@@ -16,3 +16,5 @@ Jatorrizko audio-sarrera ez ukitzeko eta ez aldatzeko diseinatuta dago zirkuitua
 # Nola programatu:
 
 Proiektua ahalik eta errazena programatzeko, Arduinoko IDE estandarra erabiliko dugu. Efektu guztiak C formatuan programatuta daude. Tresna eta programa guztiak doakoak/kode irekikoak dira. 8x8ko LED matrizeak kontrolatzeko, LedControl liburutegia erabiltzen dugu.
+
+https://www.electrosmash.com/forum/arduino-audio-meter/485-how-to-start-programming-the-arduino-audio-meter programatzen hasteko link-a
